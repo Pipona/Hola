@@ -1,4 +1,4 @@
-#Tarta de choclo
-##Ingredientes
+# Tarta de choclo
+## Ingredientes
 - bla
 - bla
