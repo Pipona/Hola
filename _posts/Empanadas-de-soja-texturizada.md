@@ -25,4 +25,4 @@ Por último armamos las empanadas, y las llevamos a un horno medio a fuerte hast
 
 Les recomiendo que coman estas empanadas con mucho limón ¡¡es una locura!! 
 
-
+![empanadas de soja](/img/empanadas-de-soja.jpg)
